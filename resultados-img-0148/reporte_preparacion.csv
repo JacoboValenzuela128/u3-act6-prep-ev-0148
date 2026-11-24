@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+mesa,mesa1.jpg,OK,2261,1982,224,224,0.0,0.941,APROBADA
+mesa,mesa2.jpg,OK,500,500,224,224,0.0,1.0,APROBADA
+mesa,mesa3.jpg,OK,452,500,224,224,0.02,1.0,APROBADA
+mesa,mesa4.jpg,OK,600,600,224,224,0.027,1.0,APROBADA
+mesa,mesa5.jpg,OK,554,554,224,224,0.004,1.0,APROBADA
+sillas,silla1.jpg,OK,684,448,224,224,0.0,1.0,APROBADA
+sillas,silla2.jpg,OK,1080,1354,224,224,0.008,0.976,APROBADA
+sillas,silla3.jpg,OK,500,375,224,224,0.0,1.0,APROBADA
+sillas,silla4.jpg,OK,720,960,224,224,0.0,0.984,APROBADA
+sillas,silla5.jpg,OK,257,350,224,224,0.0,1.0,APROBADA
